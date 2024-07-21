@@ -33,5 +33,5 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 
 > Image Information
 >
-> >
+> > Helo
 
