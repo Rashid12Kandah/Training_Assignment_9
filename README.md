@@ -31,3 +31,7 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_9/blob/main/husky.jpeg" alt="24bit coloured image of husky">
 
+> Image Information
+>
+> >
+
