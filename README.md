@@ -48,6 +48,6 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 > > Resized Image Size: 490x639
 >
 > > Resized Image Pixel Format: Format8bppIndexed
-> >
+> 
 > > Time Taken = 43ms
 
