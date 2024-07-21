@@ -25,3 +25,9 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 >> Resized Image Size: 372x364
 
 >> Resized Image Pixel Format: Format8bppIndexed
+
+
+## Original Image - 24bit coloured image of husky
+
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_9/blob/main/husky.jpeg" alt="24bit coloured image of husky">
+
