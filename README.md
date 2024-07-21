@@ -11,10 +11,10 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_9/blob/main/Einstein.jpeg" alt="24bit image grayscale of Einstein">
 
 > Image Information
-
->> Original Image Size: 186x182
-
->> Original Image Pixel Format: Format24bppRgb
+>
+> > Original Image Size: 186x182
+>
+> > Original Image Pixel Format: Format24bppRgb
 
 ## After Scaling - 8bit image of Einstein (grayscale) (rescaled by a factor of 2)
 
