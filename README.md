@@ -25,6 +25,8 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 > > Resized Image Size: 372x364
 >
 > > Resized Image Pixel Format: Format8bppIndexed
+>
+> > Time Taken = 8ms
 
 
 ## Original Image - 24bit coloured image of husky
@@ -39,11 +41,13 @@ mono Scaling.exe <path/to/img> scalingFactor (no. not percentage)
 
 ## After Scaling - 8bit grayscale image of husky (rescaled by a factor of 0.5).
 
-<img src="https://github.com/Rashid12Kandah/Training_Assignment_9/blob/main/Rescaled_Husky_0.5.jpeg" alt="8bit rescaled grayscale image of husky"
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_9/blob/main/Rescaled_Husky_0.5.jpeg" alt="8bit rescaled grayscale image of husky"> 
 
 > Image Information
 > 
 > > Resized Image Size: 490x639
 >
-> >Resized Image Pixel Format: Format8bppIndexed
+> > Resized Image Pixel Format: Format8bppIndexed
+> >
+> > Time Taken = 43ms
 
